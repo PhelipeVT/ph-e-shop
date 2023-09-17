@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ph-e-shop/static/css/main.668db767.css",
+    "main.js": "/ph-e-shop/static/js/main.54f2cca1.js",
+    "index.html": "/ph-e-shop/index.html",
+    "main.668db767.css.map": "/ph-e-shop/static/css/main.668db767.css.map",
+    "main.54f2cca1.js.map": "/ph-e-shop/static/js/main.54f2cca1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.668db767.css",
+    "static/js/main.54f2cca1.js"
+  ]
+}
