@@ -1,6 +1,8 @@
 # Ph E-Shop
 
-### Este é um projeto de loja de um E-commerce utilizando o React JS, ele possui as seguintes funcionalidades: listar produtos na tela; buscar produtos com a API do Mercado Livre; adicionar produtos e remover produtos do carrinho.
+**Este é um projeto de loja de um E-commerce utilizando o React JS, ele possui as seguintes funcionalidades: listar produtos na tela; buscar produtos com a API do Mercado Livre; adicionar produtos e remover produtos do carrinho.**
+
+:point_right: Para testar online o projeto, clique neste [Link](https://phelipevt.github.io/ph-e-shop/).
 
 ## Funcionalidades
 
